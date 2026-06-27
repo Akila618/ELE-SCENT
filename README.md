@@ -1,10 +1,13 @@
 # ELE-SCENT Research Project
-
 **Welcome to the ELE-SCENT Official Public Repository**!  
 
 - *We are a multidisciplinary team of engineering students, wildlife enthusiasts, and researchers working on AI-powered solutions for elephant conservation. Our flagship project, ELE-SCENT, is an innovative system designed to detect and monitor wild elephants using odor signatures, IoT, and embedded AI.*
 - Visit Our Official Web Page: https://elescentousl.pages.dev/
 ---
+<img width="200" height="200" alt="204593694" src="https://github.com/user-attachments/assets/9518d5e8-c91d-4b82-a5de-99c96db80c06" />
+
+
+
 
 ## **About ELE-SCENT**
 - **Goal:** To reduce human-elephant conflicts (HEC) and accidental deaths (e.g., train collisions) by providing **early detection and alert systems**.
